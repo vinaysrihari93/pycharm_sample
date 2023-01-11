@@ -17,7 +17,7 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print('Edit')
     print('Hi user')
-    print('Additional Commit')
+    print('Additional Commit 30')
     print(func_1())
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
