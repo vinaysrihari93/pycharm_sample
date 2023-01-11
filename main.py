@@ -16,7 +16,7 @@ if __name__ == '__main__':
 
     print_hi('PyCharm')
     print('Edit')
-    print('Hi')
+    print('Hi user')
     print(func_1())
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
